@@ -1,0 +1,10 @@
+/env
+.DS_Store
+
+*.obj
+*.ply
+*.tif
+*.nrrd
+
+*/
+*/*
